@@ -8,6 +8,6 @@ For purposes of the foregoing, “Sell” means practicing any or all of the rig
 
 Software: Soundcloud Grabber
 
-License: MIT License
+License: [MIT License](https://choosealicense.com/licenses/mit/)
 
 Licensor: Benedikt Heyer
